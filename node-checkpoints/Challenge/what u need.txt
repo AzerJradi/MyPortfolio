@@ -1,0 +1,6 @@
+Code Color and typographe : 
+
+yellow : #FFA500
+blue : #050696
+
+Font : Montserrat

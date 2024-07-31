@@ -1,0 +1,15 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "main",
+    "start": "node server.js"
+  },
+  "author": "azer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

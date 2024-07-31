@@ -1,0 +1,39 @@
+.background {
+    width: 105%;
+    margin-left: -4%;
+    margin-top: -1%;
+}
+.all {
+    background-color: red;
+    border-radius: 12px;
+    width: 40%;
+    margin-left: 30%;
+    padding: 10px 50px 0 50px;
+    /* margin-top: -100px; */
+}
+#img{
+    margin-top: 50px;
+    width: 50px;
+}
+.titre{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -55px;
+    margin-left: 15%;
+}
+.title{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div1 {
+
+}
+.div2 {
+
+}
+.img {
+
+}
+.des {
+
+}

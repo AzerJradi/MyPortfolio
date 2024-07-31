@@ -1,0 +1,132 @@
+*{
+    font-family:Montserrat;
+}
+:root{
+    --yellow : #FFA500 ;
+    --blue : #050696
+}
+.nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-left: 2.5%;
+}
+.divOneInNav{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+.nameOfLogo {
+    margin-left: 20px;
+    font-size: 18px;
+}
+.home {
+    margin-right: 20px;
+}
+.NextHome{
+
+}
+.drachnwFlNav {
+
+}
+.buttons{
+    margin-left: 80%;
+    margin-top: -50px;
+}
+.Button_nav {
+    padding: 10px 20px;
+    border-radius: 2px;
+    border: transparent;
+
+}
+.Started {
+    background: var(--blue);
+    color: white;
+    padding: 10px;
+    border-radius: 2px;
+    border: transparent;
+}
+.title {
+
+}
+.theTitle{
+    display: flex;
+    flex-direction: row;
+    margin-left: 45%;
+    font-size: 36px;
+}
+.FirstPara {
+    width: 20%;
+    margin-left: 42.5%;
+    font-size: 16px;
+    margin-top: -30px;
+}
+.mac{
+    width: 95%;
+    margin-left: 2.5%;
+    height: 200px;
+    border-radius: 4px;
+    object-fit:cover
+}
+.media {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 25px;
+}
+.github {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.linkdin {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.whatsapp {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.twitter {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.secondTitle{
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 2.5%;
+}
+.three{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.lastOne{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.last{
+    width: 30%;
+    height: 600px;
+    background: beige;
+}
+.img1{
+    width: 100%;
+    height: 200px;
+    border-radius: 10px 10px 0 0;
+}
+.desss{
+    width: 90%;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%
+}
